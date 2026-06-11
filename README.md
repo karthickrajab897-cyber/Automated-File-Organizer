@@ -3,7 +3,14 @@
 A professional desktop application built with **Python** and **Tkinter** that automatically organizes files inside a selected folder into categorized subfolders based on their file extensions.
 
 > Developed as part of a **Python Programming Internship** project.
+> 
+## Internship Details
 
+- Name: Karthick Raja B
+- Organization: CODTECH IT SOLUTIONS
+- Domain: Python Programming
+- Project: Automated File Organizer
+- Internship ID: CITS4439
 ---
 
 ## 📋 Project Overview
